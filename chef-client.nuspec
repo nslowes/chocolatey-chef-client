@@ -3,15 +3,15 @@
   <metadata>
     <id>chef-client</id>
     <title>chef-client</title>
-    <version>11.16.4.1</version>
-    <authors>Opscode</authors>
+    <version>12.1.0.1</version>
+    <authors>Chef</authors>
     <owners>Nick Slowes</owners>
     <summary>chef-client</summary>
-    <description>Installs chef-client using the public installer from Opscode</description>
+    <description>Installs chef-client using the public installer from Chef</description>
     <projectUrl>http://www.opscode.com/chef/install/</projectUrl>
     <tags>chef-client admin</tags>
     <copyright></copyright>
-    <licenseUrl>http://wiki.opscode.com/display/chef/Apache+License</licenseUrl>
+    <licenseUrl>https://github.com/chef/chef/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
       <dependency id="chocolatey" version="0.9.8" />
