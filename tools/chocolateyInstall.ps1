@@ -1,6 +1,6 @@
 ﻿$packageName = 'chef-client'
 $installerType = 'msi'
-$url = 'https://opscode-omnibus-packages.s3.amazonaws.com/windows/2008r2/x86_64/chef-client-12.1.0-1.msi'
+$url = 'https://opscode-omnibus-packages.s3.amazonaws.com/windows/2008r2/x86_64/chef-client-12.4.1-1.msi'
 $url64 = $url
 $silentArgs = '/quiet'
 $validExitCodes = @(0)
