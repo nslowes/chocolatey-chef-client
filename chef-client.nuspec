@@ -3,18 +3,18 @@
   <metadata>
     <id>chef-client</id>
     <title>chef-client</title>
-    <version>12.8.1.1</version>
+    <version>12.11.18</version>
     <authors>Chef</authors>
     <owners>Nick Slowes</owners>
     <summary>chef-client</summary>
     <description>Installs chef-client using the public installer from Chef</description>
-    <projectUrl>http://www.opscode.com/chef/install/</projectUrl>
+    <projectUrl>https://downloads.chef.io/chef-client/windows/</projectUrl>
     <tags>chef-client admin</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/chef/chef/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
-      <dependency id="chocolatey" version="0.9.8" />
+      <dependency id="chocolatey" version="0.9.9" />
     </dependencies>
   </metadata>
   <files>
